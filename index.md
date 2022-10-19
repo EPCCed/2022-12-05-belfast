@@ -11,7 +11,7 @@ latitude: "45"        # decimal latitude of workshop venue (use https://www.latl
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Dec 5-8, 2022" # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: | 
-  9:30 am - 5:00 pm GMT Mon-Wed.{{newline}}
+  9:30 am - 5:00 pm GMT Mon-Wed.  
   9:30 am - 12:00 pm Thurs. (optional)
 startdate: 2022-12-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-12-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
