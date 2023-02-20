@@ -11,6 +11,7 @@
  - Well structured, interesting delivery, good help from demonstrators.
  - Everything explained in easy to understand language.
  - Good pace. Takes everyone from start together.
+ - Online introduction were very clear and informative. Demonstration of how to use Unix commands on screen helped to convey the information.
 
 ### The bad
  - Too fast for my level, last 45 minutes went completely over my head.
@@ -23,6 +24,7 @@
  - Excellent job.
  - Very interesting intro to Make. I didn't realise what it was for.
  - Thank you! Notes online very easy to follow and understand!
+ - Good practical demonstration helped to convey information.
 
 ### The bad
  - Take more time on Make and explain it.
@@ -34,6 +36,19 @@
  - Thank you, very helpful supervisors, great work, useful content.
  - Thank you! Very helpful and very well explained =)
  - Very comprehensive course!
+ - Demonstration of how to write Python code helped to convey the information well.
  
 ### The bad
  - Would be better if all exercises build into main "project" rather than being stand-alone.
+
+## Git and SQL (day 3)
+
+### The good
+ - Good introduction of SQL.
+ - Sorry for zoning out in the last hour, my attention span is awful and entirely not your fault. Very good delivery as always.
+ - Very helpful. Have learned a lot! Thank you for all the help =)
+ - Demonstration of how to use the software on screen helped to convey the information.
+
+### The bad
+ - Going too fast. I wish more time to explore the link between SQL and (Python and R).
+ - Online instructions were rather difficult to find.
